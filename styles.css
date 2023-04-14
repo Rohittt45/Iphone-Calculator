@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: black;
+}
+.nav{
+    width: 100%;
+    height: 1rem;
+}
+.button{
+    width: 65px;
+    height: 65px;
+    margin: 3px 0.5px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: #2a2a2a;
+    color: white;
+    font-size: 28px;
+}
+.button:hover{
+   
+    height: 64px;
+    width: 64px;
+}
+
+.container{
+    width: 19rem;
+    height: 90vh;
+    border: 1px solid black;
+    padding: 23px 0;
+    background-color: #000000;
+    box-shadow: 0 0 30px #CBC;
+    border-radius: 50px;
+    position: relative;
+    z-index: 1;
+}
+.container1{
+    background-color: white;
+    width: 316px;
+    margin: 0 auto;
+    padding: 0;
+    height: 98vh;
+    padding-top: 2px;
+   
+}
+.border{
+    width: 308px;
+    height: 97.2vh;
+    border: 1.5px solid black;
+    border-radius: 51px;
+    padding: 1px 0;
+}
+.input{
+    margin: 23px 0;
+    height: 8rem;
+    width: 16rem;
+    border: 2px solid black;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    font-size: 37px;
+    font-family: 'Raleway', sans-serif;
+}

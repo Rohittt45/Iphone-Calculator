@@ -1,0 +1,41 @@
+.center{
+    text-align: center;
+}
+
+
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex-col{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.items-center{
+    align-items: center;
+}
+
+.bg-grey{
+    background-color: #707070;
+    color: black;
+}
+.bg-white{
+    background-color: white;
+    width: 6rem;
+    height: 2px;
+    border-radius: 51px;
+    margin-top: 4rem;
+
+}
+.y-button{
+    background-color: #e38400;
+}
+
+.lg-button{
+    width: 135px;
+    border-radius:34px;
+}
+
